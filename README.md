@@ -13,4 +13,6 @@
         + `touch tsconfig.json`
         + `sudo su yarn global add @cloudflare/wrangler`
         + `wrangler generate workers-site`
- 
+        + `cd src/`
+        + `mkdir assets components constants contexts hooks yieldfarm theme utils views`
+        + `cd ..`
