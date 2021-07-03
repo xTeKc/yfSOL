@@ -1,4 +1,4 @@
 # yfSOL
 
 + __Getting Started__
-    + yarn install
+    + `yarn install`
