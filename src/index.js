@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import ReactGA from "react-ga";
+import { isMobile } from "react-device-detect";
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
